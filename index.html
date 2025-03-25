@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ankademin Bokhandel</title>
+    <script src="https://cdn.jsdelivr.net/npm/uuid@latest/dist/umd/uuidv4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.8.4/dist/axios.min.js"></script>
+    <script src="index.js" defer></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 class="main-title">Ankademin Bokhandel</h1>
+    <h2>Add a New Book</h2>
+    <form id="bookForm">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" required><br><br>
+
+        <label for="author">Author:</label>
+        <input type="text" id="author" name="author" required><br><br>
+
+        <label for="pages">Pages:</label>
+        <input type="number" id="pages" name="pages" required><br><br>
+
+        <label for="year">Year:</label>
+        <input type="number" id="year" name="year" required><br><br>
+
+        <label for="genre">Genre:</label>
+        <input type="text" id="genre" name="genre" required><br><br>
+        <button type="submit">Add Book</button>
+    </form>
+    <div class="container"> 
+        
+    </div>
+</body>
+</html>

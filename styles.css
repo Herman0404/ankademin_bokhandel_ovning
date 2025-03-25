@@ -1,0 +1,75 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width:90%;
+    gap:8px;
+    margin: 20px auto;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+.main-title {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 30px;
+    color: #444;
+}
+
+.author-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.author {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    padding: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.book:hover {
+    transform: scale(1.05);
+}
+
+.author-name {
+    font-size: 1.8rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.book-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.book {
+    margin: 8px 4px;
+    padding:8px;
+    font-size: 1.1rem;
+    color: #555;
+    border:2px solid black;
+    width:30%;
+}
+
+.book h2::before {
+    content: "📚";
+    margin-right: 10px;
+    color: #3498db;
+}
+
+
+
+#bookForm, h2{
+    padding: 0 16px;
+}
