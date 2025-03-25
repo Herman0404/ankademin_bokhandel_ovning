@@ -1,85 +1,92 @@
 {
-    "books": [
-      {
-        "title": "Mästaren och Margarita",
-        "author": "Mikhail Bulgakov",
-        "pages": 448,
-        "year": 1967,
-        "genre": "Filosofi, Satir",
-        "id": "jeVK"
-      },
-      {
-        "title": "Stolthet och fördom",
-        "author": "Jane Austen",
-        "pages": 432,
-        "year": 1813,
-        "genre": "Romantik, Klassisk litteratur",
-        "id": "6kEH"
-      },
-      {
-        "title": "1984",
-        "author": "George Orwell",
-        "pages": 328,
-        "year": 1949,
-        "genre": "Dystopi, Politik",
-        "id": "lFfF"
-      },
-      {
-        "title": "Hobbit",
-        "author": "J.R.R. Tolkien",
-        "pages": 310,
-        "year": 1937,
-        "genre": "Fantasy, Äventyr",
-        "id": "xntX"
-      },
-      {
-        "title": "The Catcher in the Rye",
-        "author": "J.D. Salinger",
-        "pages": 277,
-        "year": 1951,
-        "genre": "Fiction, Coming-of-age",
-        "id": "gwK8"
-      },
-      {
-        "title": "Den hemlige kocken",
-        "author": "Matts E. Karlsson",
-        "pages": 288,
-        "year": 2004,
-        "genre": "Mat, Hälsa",
-        "id": "9pYE"
-      },
-      {
-        "title": "Sagan om ringen",
-        "author": "J.R.R. Tolkien",
-        "pages": 1178,
-        "year": 1954,
-        "genre": "Fantasy, Äventyr",
-        "id": "JGGC"
-      },
-      {
-        "title": "En man som heter Ove",
-        "author": "Fredrik Backman",
-        "pages": 368,
-        "year": 2012,
-        "genre": "Fiction, Humor",
-        "id": "Wt1H"
-      },
-      {
-        "title": "Frankenstein",
-        "author": "Mary Shelley",
-        "pages": 280,
-        "year": 1818,
-        "genre": "Gothic fiction, Science fiction",
-        "id": "nbnC"
-      },
-      {
-        "title": "To Kill a Mockingbird",
-        "author": "Harper Lee",
-        "pages": 281,
-        "year": 1960,
-        "genre": "Fiction, Drama",
-        "id": "Wzdi"
-      }
-    ]
-  }
-  
+  "books": [
+    {
+      "title": "Mästaren och Margarita",
+      "author": "Mikhail Bulgakov",
+      "pages": 448,
+      "year": 1967,
+      "genre": "Filosofi, Satir",
+      "id": "jeVK"
+    },
+    {
+      "title": "Stolthet och fördom",
+      "author": "Jane Austen",
+      "pages": 432,
+      "year": 1813,
+      "genre": "Romantik, Klassisk litteratur",
+      "id": "6kEH"
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "pages": 328,
+      "year": 1949,
+      "genre": "Dystopi, Politik",
+      "id": "lFfF"
+    },
+    {
+      "title": "Hobbit",
+      "author": "J.R.R. Tolkien",
+      "pages": 310,
+      "year": 1937,
+      "genre": "Fantasy, Äventyr",
+      "id": "xntX"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "pages": 277,
+      "year": 1951,
+      "genre": "Fiction, Coming-of-age",
+      "id": "gwK8"
+    },
+    {
+      "title": "Den hemlige kocken",
+      "author": "Matts E. Karlsson",
+      "pages": 288,
+      "year": 2004,
+      "genre": "Mat, Hälsa",
+      "id": "9pYE"
+    },
+    {
+      "title": "Sagan om ringen",
+      "author": "J.R.R. Tolkien",
+      "pages": 1178,
+      "year": 1954,
+      "genre": "Fantasy, Äventyr",
+      "id": "JGGC"
+    },
+    {
+      "title": "En man som heter Ove",
+      "author": "Fredrik Backman",
+      "pages": 368,
+      "year": 2012,
+      "genre": "Fiction, Humor",
+      "id": "Wt1H"
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "pages": 280,
+      "year": 1818,
+      "genre": "Gothic fiction, Science fiction",
+      "id": "nbnC"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "pages": 281,
+      "year": 1960,
+      "genre": "Fiction, Drama",
+      "id": "Wzdi"
+    },
+    {
+      "id": "0bFa",
+      "title": "Percy Jackson The Lightning Theif",
+      "author": "Rick Riordan",
+      "pages": "377",
+      "year": "2006",
+      "genre": "Fantasy, Action"
+    }
+  ]
+}
